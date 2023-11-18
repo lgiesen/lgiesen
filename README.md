@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>
-      <p>I am fascinated by various computer science technologies, such as machine learning. Thus, this passion for gaining insights from data drives me to study Information Systems at the University of Münster with a focus on business intelligence. In internships and real-life projects at the student consultancy move, I put the acquired theoretical knowledge from my studies into practice. Furthermore, I work on personal projects in my free time and work at the chair of Information Systems, fostering my analytical and conceptual abilities.</p>
+      <p>I am fascinated by information technologies, especially Machine Learning. This passion drives me to study Information Systems at the University of Münster with a focus on Business Intelligence. Through internships and part-time work, I have applied my theoretical knowledge in practice. In personal leisure projects and practical projects at the student consultancy move, I continuously enhance my analytical and conceptual skills. Currently, I aim to further develop my leadership qualities as Chairman of the Board and project manager at move.</p>
       <a href="https://leogiesen.de/#/" target="_blank">🌐 Portfolio Website</a>
       <br/><br/>
       <!--<a href="https://www.linkedin.com/in/leogiesen/" target="_blank">🔗 LinkedIn</a>-->
