@@ -17,7 +17,7 @@
       <a href="https://www.linkedin.com/in/leogiesen/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
     </td>
     <td>
-      <img src="https://github.com/lgiesen/lgiesen/assets/48908722/d08f5290-b40e-42d7-900e-3ff384f97cd6" width="1280"> 
+      <img src="https://avatars.githubusercontent.com/u/48908722?v=4" width="1280"> 
     </td>
   </tr>
 </table>
