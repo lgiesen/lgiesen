@@ -1,4 +1,4 @@
-### Hello there fellow coders 👋
+### Hello there, fellow coders 👋
 
 > ### Progress with Passion
 >
@@ -10,12 +10,17 @@
   </tr>
   <tr>
     <td>
-      <p>I am fascinated by information technologies, especially Machine Learning. This passion drives me to study Information Systems at the University of Münster with a focus on Business Intelligence. Through internships and part-time work, I have applied my theoretical knowledge in practice. In personal leisure projects and practical projects at the student consultancy move, I continuously enhance my analytical and conceptual skills. Currently, I aim to further develop my leadership qualities as Chairman of the Board and project manager at move.</p>
-      <a href="https://leogiesen.de/#/" target="_blank">🌐 Portfolio Website</a>
+      <p>I am fascinated by information technologies, especially Machine Learning. This passion drives me to study Information Systems at the University of Münster with a focus on Business Intelligence. Through internships and part-time work, I have applied my theoretical knowledge in practice. In personal leisure projects and practical projects at the student consultancy <a href="https://move-ev.de/" target="_blank">move</a>, I continuously enhance my analytical and conceptual skills. Currently, I aim to further develop my leadership qualities as chairman of the board and project manager at move.</p>
       <br/><br/>
-      <!--<a href="https://www.linkedin.com/in/leogiesen/" target="_blank">🔗 LinkedIn</a>-->
-      <a href="https://www.linkedin.com/in/leogiesen/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+      <a href="https://leogiesen.de/#/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-3949ab?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="mailto:contact@leogiesen.de" target="_blank"> <img src="https://img.shields.io/badge/Mail-f4511e?style=for-the-badge&logo=Minutemailer&logoColor=white"/></a>
+      <a href="https://www.linkedin.com/in/leogiesen/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=https://www.linkedin.com/in/leogiesen/"/></a>
     </td>
+    <!-- <img src="https://img.shields.io/badge/TEXT-BGCOLOR?style=for-the-badge&logo=LOGONAMEORBASE64&logoColor=LOGOCOLOR"/> -->
+    <!-- Icons can be retrieved from here: 
+      https://simpleicons.org/ 
+      https://hendrasob.github.io/badges/ -->
+    <!-- Docs: https://shields.io/docs/logos https://shields.io/badges -->
     <td>
       <img src="https://avatars.githubusercontent.com/u/48908722?v=4" width="1280"> 
     </td>
